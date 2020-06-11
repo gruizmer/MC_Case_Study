@@ -37,11 +37,11 @@ To run the Python script, you need to navigate to the directory containing the .
 
 After running the Python script, users obtain the following files:
 
-| Figure # | File name | Description |
+| File name | Description |
 | ------------- | ------------- |
-| Figure 6 | Sankey_5306.pdf | 6-level Sankey diagram  for the case study  |
-| Figure 7 | Box_5306.pdf  | Box plot for the case study  |
-| Figure 8 | Histogram_5306.pdf  | Histogram for the case study  |
+| Sankey_5306.pdf | Figure 6: 6-level Sankey diagram  for the case study  |
+| Box_5306.pdf  | Figure 7: Box plot for the case study  |
+| Histogram_5306.pdf  | Figure 8: Histogram for the case study  |
 | Label_names_5306_#.csv<sup>[2](#myfootnote2)</sup> | Label names for the levels in the Sankey diagram |
 | Percentages_5306_#.csv<sup>[3](#myfootnote3)</sup> | Percentages/fractions for the levels in the Sankey diagram |
 
