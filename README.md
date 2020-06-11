@@ -4,7 +4,7 @@ This code was written to support the case study for *Methylene Chloride* for the
 
 ## Requirements
 
-The following Python libraries are required for running the code:
+The following free-available Python libraries are required for running the code:
 
 1. numpy (https://pypi.org/project/numpy/)
 2. plotly (https://pypi.org/project/plotly/)
@@ -35,13 +35,13 @@ To run the Python script, you need to navigate to the directory containing the .
 
 ## Outputs
 
-After running the Python script you obtain the following files:
+After running the Python script, users obtain the following files:
 
-| File name | Description |
+| Figure # | File name | Description |
 | ------------- | ------------- |
-| Box_5306.pdf  | Box plot for the case study  |
-| Sankey_5306.pdf | 6-level Sankey diagram  for the case study  |
-| Histogram_5306.pdf  | Histogram for the case study  |
+| Figure 6 | Sankey_5306.pdf | 6-level Sankey diagram  for the case study  |
+| Figure 7 | Box_5306.pdf  | Box plot for the case study  |
+| Figure 8 | Histogram_5306.pdf  | Histogram for the case study  |
 | Label_names_5306_#.csv<sup>[2](#myfootnote2)</sup> | Label names for the levels in the Sankey diagram |
 | Percentages_5306_#.csv<sup>[3](#myfootnote3)</sup> | Percentages/fractions for the levels in the Sankey diagram |
 
@@ -49,7 +49,7 @@ After running the Python script you obtain the following files:
 
 <a name="myfootnote1">1</a>: The data entries of float type are in **kg**.
 
-<a name="myfootnote2">2</a>: They are 7 files.
+<a name="myfootnote2">2</a>: These are 7 files.
 
-<a name="myfootnote3">3</a>: They are 6 files.
+<a name="myfootnote3">3</a>: These are 6 files.
 
